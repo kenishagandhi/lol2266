@@ -1,0 +1,29 @@
+body{
+    cursor: pointer;
+}
+
+.b1
+{
+    background-image: url("bg1.jpg");
+
+    background-position: center;
+
+    background-size: cover;
+
+
+}
+
+h1{
+
+    color: blueviolet;
+
+    font-size: 40 px;
+
+}
+
+#canvas1{
+
+    border-width: 10 px;
+    background-color: rgb(154, 203, 187);
+    border-style: ridge;
+}
